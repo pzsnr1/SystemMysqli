@@ -1,0 +1,1 @@
+Ćwiczenie - połączenie do bazy, select,insert,update,delete
